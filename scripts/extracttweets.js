@@ -1,7 +1,7 @@
 import fs from "fs";
 
 const EXPORTED_DATA_FILE = "tweets.json";
-const TWEETS_FILE = "exportedtweets.json";
+const TWEETS_FILE = "exportedtweets.json"; 
 
 // Read the exported data from the JSON file
 const exportedData = JSON.parse(fs.readFileSync(EXPORTED_DATA_FILE, "utf-8"));
