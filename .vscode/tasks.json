@@ -9,6 +9,6 @@
             "problemMatcher": ["$tsc"],
             "label": "tsbuild",
             "group": "build"
-        }
+        } 
     ]
 }
