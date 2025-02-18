@@ -1,12 +1,5 @@
 # twentyAI 🤖
 
-CA: 0x0611705f54b40798c16f28ad96cf48d7e93fd0cc
-
-https://four.meme/token/0x0611705f54b40798c16f28ad96cf48d7e93fd0cc
-
-https://twentyai.me
-
-https://x.com/twentyAI_BNB
 
 ## ✨ Features
 
