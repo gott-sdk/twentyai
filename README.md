@@ -1,5 +1,8 @@
 # twentyAI 🤖
+
 https://x.com/twentyAI_BNB
+
+https://twentyai.me
 
 ## ✨ Features
 
