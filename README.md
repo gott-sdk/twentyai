@@ -1,5 +1,5 @@
-# 21AI 🤖
-
+# Twentyone AI 🤖
+https://x.com/Twentyone_BSC
 
 
 ## ✨ Features
