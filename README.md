@@ -1,6 +1,5 @@
-# Twentyone AI 🤖
-https://x.com/Twentyone_BSC
-
+# twentyAI 🤖
+https://x.com/twentyAI_BNB
 
 ## ✨ Features
 
@@ -24,15 +23,6 @@ https://x.com/Twentyone_BSC
 ## 🌍 Translations
 
 <details>
-<summary>Available Languages</summary>
-
--   [中文说明](./README_CN.md)
--   [日本語の説明](./README_JA.md)
--   [한국어 설명](./README_KOR.md)
--   [Instructions en français](./README_FR.md)
--   [Instruções em português](./README_PTBR.md)
-
-</details>
 
 ## 🚀 Quick Start
 
