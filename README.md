@@ -23,9 +23,6 @@ https://twentyai.me
 -   🎮 Video Game NPCs
 -   🧠 Trading
 
-## 🌍 Translations
-
-<details>
 
 ## 🚀 Quick Start
 
