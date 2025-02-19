@@ -1,4 +1,13 @@
 # twentyAI 🤖
+🚀 twentyAI Has Arrived! 
+
+CA: 0x6be5618561ca6f83d20032345dc2758ae7d05d43
+
+https://four.meme/token/0x6be5618561ca6f83d20032345dc2758ae7d05d43
+
+https://twentyai.me
+
+https://github.com/twentyaigit/twentyAI
 
 
 ## ✨ Features
