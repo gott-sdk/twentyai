@@ -1,4 +1,11 @@
 # twentyAI 🤖
+
+$twentyai ON four.meme
+
+CA: 0x37f34997412dae228112580e74c4aaf40736cab8
+
+https://twentyai.me/
+
  ## ✨ Features
 
 -   🛠️ Full-featured Discord, Twitter and Telegram connectors
