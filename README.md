@@ -1,6 +1,6 @@
 # twentyAI 🤖
 
-$twentyai ON four.meme
+$21AI ON four.meme
 
 
 https://twentyai.me/
